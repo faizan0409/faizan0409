@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development, Machine Learning and Cloud Technologies.**
 
-- 📫 How to reach me **faizanansari36433@gmail.com**
+- 📫 Reach out me at **faizanansari36433@gmail.com**
 
 - 📄 View my Resume [https://drive.google.com/file/d/1y7qNdG5J6MaMBuDxUFHbYIcpZFw0oTT9/view?usp=drive_link](https://drive.google.com/file/d/1y7qNdG5J6MaMBuDxUFHbYIcpZFw0oTT9/view?usp=drive_link)
 
