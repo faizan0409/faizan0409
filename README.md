@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **faizanansari36433@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y7qNdG5J6MaMBuDxUFHbYIcpZFw0oTT9/view?usp=drive_link](https://drive.google.com/file/d/1y7qNdG5J6MaMBuDxUFHbYIcpZFw0oTT9/view?usp=drive_link)
+- 📄 View my Resume [https://drive.google.com/file/d/1y7qNdG5J6MaMBuDxUFHbYIcpZFw0oTT9/view?usp=drive_link](https://drive.google.com/file/d/1y7qNdG5J6MaMBuDxUFHbYIcpZFw0oTT9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3> <img src ="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100">
 <p align="left">
