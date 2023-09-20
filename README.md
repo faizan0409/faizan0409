@@ -7,7 +7,7 @@
 
 - 📝 Visit on my portfolio [https://faizanansaris.blogspot.com/](https://faizanansaris.blogspot.com/)
 
-- 💬 Ask me about **Web Development, Machine Learning and Cloud Technologies. **
+- 💬 Ask me about **Web Development, Machine Learning and Cloud Technologies.**
 
 - 📫 How to reach me **faizanansari36433@gmail.com**
 
