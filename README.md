@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Faizan Ansari</h1>
-<h3 align="center">I have worked on Software Development technologies including Microsoft Azure, Spring Boot, Java, MySQL, Rest API, JavaScript, HTML, CSS and Bootstrap. Also skilled in Python, Machine Learning, Agile Development and Data Science.</h3>
+<h3 align="center">I have worked on Software Development technologies including Microsoft Azure, Spring Boot, Java, MySQL, Rest API, JavaScript, HTML, CSS and Bootstrap. Also skilled in Python, Machine Learning, Agile Development, and Data Science.</h3>
 <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNhbHFubjFneThkbmdqOGtyeTM0NGo2b2h2c2FxdXFycG04eGxxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
 <p align="left"> <a href="https://twitter.com/faizan0409" target="blank"><img src="https://img.shields.io/twitter/follow/faizan0409?logo=twitter&style=for-the-badge" alt="faizan0409" /></a> </p>
 
@@ -7,11 +7,11 @@
 
 - 📝 Visit on my portfolio [https://faizanansaris.blogspot.com/](https://faizanansaris.blogspot.com/)
 
-- 💬 Ask me about **Web Development, Machine Learning and Cloud Technologies.**
+- 💬 Ask me about **Web Development, Machine Learning, and Cloud Technologies.**
 
-- 📫 Reach out me at **faizanansari36433@gmail.com**
+- 📫 Reach out to me at **faizanansari36433@gmail.com**
 
-- 📄 View my Resume [https://drive.google.com/file/d/1R4rsXEto85kH16h1ltnJQ8zxcKTg-Rx-/view?usp=drive_link](https://drive.google.com/file/d/1R4rsXEto85kH16h1ltnJQ8zxcKTg-Rx-/view?usp=drive_link)
+- 📄 View my Resume [Faizan_Ansari_Resume](https://drive.google.com/file/d/1R4rsXEto85kH16h1ltnJQ8zxcKTg-Rx-/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3> <img src ="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100">
 <p align="left">
