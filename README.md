@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Faizan Ansari</h1>
-<h3 align="center">I have worked on Software Development technologies including Microsoft Azure, Spring Boot, Java, MySQL, Rest API, JavaScript, HTML, CSS and Bootstrap. Also skilled in Python, Machine Learning, Agile Development, and Data Science.</h3>
+<h3 align="center">I have worked on Software Development technologies including Microsoft Azure, Spring Boot, Java, MySQL, Rest API, JavaScript, HTML, CSS, and Bootstrap. Also skilled in Python, Machine Learning, Agile Development, and Data Science.</h3>
 <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNhbHFubjFneThkbmdqOGtyeTM0NGo2b2h2c2FxdXFycG04eGxxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
 <p align="left"> <a href="https://twitter.com/faizan0409" target="blank"><img src="https://img.shields.io/twitter/follow/faizan0409?logo=twitter&style=for-the-badge" alt="faizan0409" /></a> </p>
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/faizan0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faizan0409" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/faizan0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan0409" height="30" width="40" /></a>
-<a href="https://instagram.com/faizan_0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizan_0904" height="30" width="40" /></a>
+<a href="https://instagram.com/faizan_0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizan_0409" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/faizan0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faizan0409" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/faizan0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="faizan0409" height="30" width="40" /></a>
 </p>
