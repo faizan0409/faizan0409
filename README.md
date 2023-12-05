@@ -13,7 +13,7 @@
 
 - 📄 View my Resume [Faizan_Ansari_Resume](https://drive.google.com/file/d/1xMZxGfptuDZ-OSqMLcrWUtOhOrZa6vLe/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3> <img src ="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100">
+<h3 align="left">Let's Connect with me:</h3> <img src ="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100">
 <p align="left">
 <a href="https://twitter.com/faizan0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faizan0409" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/faizan0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan0409" height="30" width="40" /></a>
