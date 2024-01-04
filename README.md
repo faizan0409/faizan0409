@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Faizan Ansari</h1>
-<h3 align="center">I have worked on Software Development technologies including Java, SQL, Spring Boot, Rest API, Microsoft Azure, Angular JS, HTML, CSS, JavaScript, and Bootstrap. Also skilled in Python, Machine Learning, Agile Development, and Unit Test.</h3>
+<h3 align="center">I have worked on Software Development technologies including Java, SQL, Spring Boot, Rest API, PostgreSQL, Microsoft Azure, Angular JS, HTML, CSS, JavaScript, React JS, and Bootstrap. Also skilled in Python, Machine Learning, Agile Development, and Unit Test.</h3>
 <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNhbHFubjFneThkbmdqOGtyeTM0NGo2b2h2c2FxdXFycG04eGxxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
 <p align="left"> <a href="https://twitter.com/faizan0409" target="blank"><img src="https://img.shields.io/twitter/follow/faizan0409?logo=twitter&style=for-the-badge" alt="faizan0409" /></a> </p>
 
